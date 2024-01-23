@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/resourge/stylelint-config-resourge/compare/v1.1.1...v1.1.2) (2024-01-23)
+
+
+### Bug Fixes
+
+* **styledlint:** fix config ([a89fe18](https://github.com/resourge/stylelint-config-resourge/commit/a89fe18715a5d7556c5879eeec724d8652afb99e))
+
 ## [1.1.1](https://github.com/resourge/stylelint-config-resourge/compare/v1.1.0...v1.1.1) (2024-01-23)
 
 
