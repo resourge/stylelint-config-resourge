@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/resourge/stylelint-config-resourge/compare/v1.1.0...v1.1.1) (2024-01-23)
+
+
+### Bug Fixes
+
+* ***.js:** change from js to mjs ([5410a6c](https://github.com/resourge/stylelint-config-resourge/commit/5410a6c04872658f14f9a038e8152887eec207e8))
+
 # [1.1.0](https://github.com/resourge/stylelint-config-resourge/compare/v1.0.0...v1.1.0) (2024-01-23)
 
 
