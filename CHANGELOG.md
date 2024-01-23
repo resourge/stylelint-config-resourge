@@ -1,3 +1,10 @@
+# 1.0.0 (2024-01-23)
+
+
+### Features
+
+* **project:** first commit ([7724002](https://github.com/resourge/stylelint-config-resourge/commit/77240027cff2fbd91994f9218bd415a7cf961a01))
+
 # [1.4.0](https://github.com/resourge/eslint-config-resourge-typescript/compare/v1.3.0...v1.4.0) (2024-01-15)
 
 
