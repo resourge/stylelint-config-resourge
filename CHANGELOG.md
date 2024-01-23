@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/resourge/stylelint-config-resourge/compare/v1.0.0...v1.1.0) (2024-01-23)
+
+
+### Features
+
+* **styled:** separete styled from index ([53a72c4](https://github.com/resourge/stylelint-config-resourge/commit/53a72c415707de34cc91bfda04875abd195c012c))
+
 # 1.0.0 (2024-01-23)
 
 
