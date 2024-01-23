@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/resourge/stylelint-config-resourge/compare/v1.1.2...v1.1.3) (2024-01-23)
+
+
+### Bug Fixes
+
+* **package:** add files to package.json ([24e53ca](https://github.com/resourge/stylelint-config-resourge/commit/24e53ca2610010cd8f71d4b12bc5f24d096e2296))
+
 ## [1.1.2](https://github.com/resourge/stylelint-config-resourge/compare/v1.1.1...v1.1.2) (2024-01-23)
 
 
