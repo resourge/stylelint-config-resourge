@@ -2,7 +2,19 @@
 	"name": "stylelint-config-resourge",
 	"version": "1.1.1",
 	"description": "",
-	"main": "index.js",
+	"main": "index.mjs",
+	"files": [
+		"index.mjs",
+		"styled.mjs"
+	],
+	"exports": {
+		".": {
+			"default": "./index.mjs"
+		},
+		"./styled": {
+			"default": "./styled.mjs"
+		}
+	},
 	"scripts": {
 		"commit": "git pull && git add . && git-cz",
 		"semantic-release": "semantic-release"

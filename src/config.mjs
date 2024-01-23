@@ -1,12 +1,10 @@
-import { Config } from 'stylelint';
-
 export default function getConfig({
 	recommended = [],
 	plugins = [],
 	overrides = [],
 	rules = {},
-	ignoreFiles = {}
-}): Config {
+	ignoreFiles = []
+}) {
 	return {
 		extends: [
 			'stylelint-config-standard',
@@ -21,8 +19,7 @@ export default function getConfig({
 		plugins: [
 			'stylelint-use-logical-spec',
 			'stylelint-declaration-block-no-ignored-properties',
-			'./lib/rules/indentation.mjs',
-			'./lib/rules/declaration-block-semicolon-newline-after.mjs',
+			'./src/lib/index.mjs',
 			...plugins
 		],
 		rules: {
