@@ -1,0 +1,36 @@
+{
+  "name": "stylelint-config-resourge",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "commit": "git pull && git add . && git-cz",
+    "semantic-release": "semantic-release"
+  },
+  "author": "José Silva Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "style-search": "^0.1.0",
+    "stylelint": "^16.1.0",
+    "stylelint-config-clean-order": "^5.4.0",
+    "stylelint-config-standard": "^36.0.0",
+    "stylelint-declaration-block-no-ignored-properties": "^2.8.0",
+    "stylelint-use-logical-spec": "^5.0.1"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/exec": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "semantic-release": "^23.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/resourge/eslint-config-resourge-typescript.git"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
