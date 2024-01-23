@@ -1,4 +1,4 @@
-import getConfig from './src/config'
+import getConfig from './src/config.mjs'
 
 export default getConfig({
 	ignoreFiles: ['**/!(*.styles).ts'],
