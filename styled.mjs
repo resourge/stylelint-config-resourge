@@ -1,11 +1,15 @@
-import getConfig from './src/config.mjs';
+import getConfig, { IGNORE_FILES as DEFAULT_IGNORE_FILES } from './src/config.mjs';
+
+export const IGNORE_FILES = [
+	...DEFAULT_IGNORE_FILES,
+	'!**/*.styles.ts'
+]
 
 export default getConfig({
-	ignoreFiles: ['**/!(*.styles).ts'],
 	overrides: [
 		{
 			files: ['*.styles.*'],
-			customSyntax: 'postcss-styled-syntax'
+			customSyntax: 'postcss-styled-syntax',
 		}
 	]
 })

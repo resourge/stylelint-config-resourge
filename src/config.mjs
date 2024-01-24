@@ -1,20 +1,20 @@
+export const IGNORE_FILES = [
+	'**/node_modules/**',
+	'**/dist/**',
+	'**/*.ts',
+]
+
 export default function getConfig({
 	recommended = [],
 	plugins = [],
 	overrides = [],
-	rules = {},
-	ignoreFiles = []
+	rules = {}
 }) {
 	return {
 		extends: [
 			'stylelint-config-standard',
 			'stylelint-config-clean-order/error',
 			...recommended
-		],
-		ignoreFiles: [
-			'**/node_modules/**',
-			'**/dist/**',
-			...ignoreFiles
 		],
 		plugins: [
 			'stylelint-use-logical-spec',
