@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/resourge/stylelint-config-resourge/compare/v1.1.3...v1.2.0) (2024-01-24)
+
+
+### Features
+
+* **styled:** separate IGNORE_FILES from extends ([ebc955f](https://github.com/resourge/stylelint-config-resourge/commit/ebc955f12476f10fe39f0689b749b24bf07f02e4))
+
 ## [1.1.3](https://github.com/resourge/stylelint-config-resourge/compare/v1.1.2...v1.1.3) (2024-01-23)
 
 
