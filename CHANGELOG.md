@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/resourge/stylelint-config-resourge/compare/v1.2.0...v1.2.1) (2024-02-05)
+
+
+### Bug Fixes
+
+* **config.mjs:** add typescript files to ignore files ([6b5efd2](https://github.com/resourge/stylelint-config-resourge/commit/6b5efd2f8563af5b9a3db1c63421c81596c8c19e))
+
 # [1.2.0](https://github.com/resourge/stylelint-config-resourge/compare/v1.1.3...v1.2.0) (2024-01-24)
 
 
