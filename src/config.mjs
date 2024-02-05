@@ -2,6 +2,7 @@ export const IGNORE_FILES = [
 	'**/node_modules/**',
 	'**/dist/**',
 	'**/*.ts',
+	'**/*.tsx',
 ]
 
 export default function getConfig({
