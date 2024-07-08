@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/resourge/stylelint-config-resourge/compare/v1.2.1...v1.3.0) (2024-07-08)
+
+
+### Features
+
+* **package:** update packages ([62a8572](https://github.com/resourge/stylelint-config-resourge/commit/62a8572251d61df317db9081b259678be95ece56))
+
 ## [1.2.1](https://github.com/resourge/stylelint-config-resourge/compare/v1.2.0...v1.2.1) (2024-02-05)
 
 
