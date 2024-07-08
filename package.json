@@ -24,9 +24,9 @@
 	"license": "ISC",
 	"dependencies": {
 		"style-search": "^0.1.0",
-		"stylelint": "^16.1.0",
-		"stylelint-config-clean-order": "^5.4.0",
-		"stylelint-config-standard": "^36.0.0",
+		"stylelint": "^16.6.1",
+		"stylelint-config-clean-order": "^6.1.0",
+		"stylelint-config-standard": "^36.0.1",
 		"stylelint-declaration-block-no-ignored-properties": "^2.8.0",
 		"stylelint-use-logical-spec": "^5.0.1"
 	},
@@ -35,7 +35,7 @@
 		"@semantic-release/exec": "^6.0.3",
 		"@semantic-release/git": "^10.0.1",
 		"cz-conventional-changelog": "^3.3.0",
-		"semantic-release": "^23.0.0"
+		"semantic-release": "^24.0.0"
 	},
 	"repository": {
 		"type": "git",
